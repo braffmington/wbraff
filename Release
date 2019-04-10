@@ -1,0 +1,6 @@
+Origin: wbraffman's repoLabel: wbraffman's repoSuite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: wbraffman's repo
